@@ -1,2 +1,2 @@
 # Melodic-Skylines
-Exhibit of melodies graphed in RaphaelJS
+Exhibit of melodies graphed in Raphael
