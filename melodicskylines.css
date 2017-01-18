@@ -1,0 +1,68 @@
+body{
+  background-color: #333;
+}
+/*--------------------PAPER AND SVG---------------------*/
+#paper-div{
+  margin: 0 auto;
+  background-color: white;
+}
+svg{
+  display: block; /* gets rid of margin*/
+  margin: 0 auto;
+}
+
+/*--------------------NON SVG/RAPHAEL STUFF---------------------*/
+.directions{
+  font-size: 2em;
+  color: white;
+  text-align: center;
+}
+
+@media(max-width:768px){
+  .directions{
+    font-size: 1.5em;
+  }
+}
+@media(max-width:400px){
+  .directions{
+    font-size: 1.15em;
+  }
+}
+
+.italics{
+  font-style: italic;
+}
+
+.description{
+    color: white;
+}
+
+.description-box{
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@media only screen and (orientation:portrait){
+  .container {
+    height: 100vw;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+}*/
