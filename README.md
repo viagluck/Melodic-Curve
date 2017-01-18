@@ -1,2 +1,2 @@
-# Melodic-Curve
-Exhibit of melodies graphed in Raphael
+# Melodic-Skylines
+Exhibit of melodies graphed in RaphaelJS
